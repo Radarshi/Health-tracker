@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#0F172A</color>
+    <color name="black">#000000</color>
+    <color name="primary">#10B981</color>
+    <color name="primary_dark">#059669</color>
+    <color name="surface_dark">#1E293B</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">NutriTrack AI</string>
+    <style name="Theme.NutriTrack" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:navigationBarColor">#0F172A</item>
+    </style>
+</resources>

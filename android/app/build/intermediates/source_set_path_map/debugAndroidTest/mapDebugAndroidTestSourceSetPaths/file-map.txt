@@ -1,0 +1,5 @@
+com.nutritrack.android.test.app-core-1.6.1-0 C:\Users\radar\.gradle\caches\8.14.5\transforms\b092e8026c9346b6c12bab1080c1f151\transformed\core-1.6.1\res
+com.nutritrack.android.test.app-androidTest-1 E:\Projects\Calories-Tracker-App\android\app\build\generated\res\resValues\androidTest\debug
+com.nutritrack.android.test.app-mergeDebugAndroidTestResources-2 E:\Projects\Calories-Tracker-App\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.nutritrack.android.test.app-mergeDebugAndroidTestResources-3 E:\Projects\Calories-Tracker-App\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.nutritrack.android.test.app-debugAndroidTest-4 E:\Projects\Calories-Tracker-App\android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

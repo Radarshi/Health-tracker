@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nutritrack.android.app-mergeDebugResources-56:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\radar\\.gradle\\caches\\8.14.5\\transforms\\bebd0a0463bc295cbbe248e37a6d6f7a\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

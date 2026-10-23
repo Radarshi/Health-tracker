@@ -1,0 +1,33 @@
+from app.models.all_models import (
+    User,
+    UserProfile,
+    BodyMeasurement,
+    NutritionTarget,
+    Food,
+    Meal,
+    MealItem,
+    Recipe,
+    RecipeItem,
+    FavoriteFood,
+    FavoriteMeal,
+    HydrationEntry,
+    RecognitionJob,
+    NotificationPreference,
+)
+
+__all__ = [
+    "User",
+    "UserProfile",
+    "BodyMeasurement",
+    "NutritionTarget",
+    "Food",
+    "Meal",
+    "MealItem",
+    "Recipe",
+    "RecipeItem",
+    "FavoriteFood",
+    "FavoriteMeal",
+    "HydrationEntry",
+    "RecognitionJob",
+    "NotificationPreference",
+]
