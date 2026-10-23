@@ -14,7 +14,7 @@ class UserPreferences(context: Context) {
         private const val KEY_BASE_URL = "base_url"
 
         // Default Android Emulator IP for localhost: 10.0.2.2
-        const val DEFAULT_BASE_URL = "http://10.0.2.2:8000/"
+        const val DEFAULT_BASE_URL = "https://health-tracker-dynv.onrender.com"
     }
 
     fun saveAuthToken(token: String) {
